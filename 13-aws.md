@@ -26,6 +26,8 @@ Mechanical Turk's signup process is a little rough, so I'm just going to demo it
 
 The only thing to note is that if you're trying to post jobs it's called being a **Requester** and if you're trying to work for pennies it's called being a **Worker**.
 
+[what we'll put up](13-aws-turk.md)
+
 ## Part Two: EC2
 
 EC2 stands for [Elastic Compute Cloud](https://console.aws.amazon.com/ec2/v2/home), which is a fancy way of saying "a custom computer,". more or less You can launch your management console and click EC2 up in the top right.
