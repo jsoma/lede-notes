@@ -14,7 +14,7 @@ You'll need to visit [https://aws.amazon.com](https://aws.amazon.com) and sign u
 6. Be breathless at the wealth of computing resources at your command
 7. Be breathless at *what do all of those things mean?*
 
-[Signup process notes with images here](12-aws-signup.md)
+[Signup process notes with images here](13-aws-signup.md)
 
 # Part One: Mechanical Turk
 
@@ -32,7 +32,7 @@ EC2 stands for [Elastic Compute Cloud](https://console.aws.amazon.com/ec2/v2/hom
 
 ![image](images/aws-4-2.png)
 
-Check out our [quickstart here](12-aws-ec2.md).
+Check out our [quickstart here](13-aws-ec2.md).
 
 ## Part Three: S3
 
